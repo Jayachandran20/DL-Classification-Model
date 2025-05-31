@@ -30,8 +30,8 @@ Predict a sample input and compare with the actual class.
 
 ## PROGRAM
 
-**Name :** M JAYACHANDRAN
-**Register Number :** 212222240038
+##Name :** M JAYACHANDRAN
+##Register Number :** 212222240038
 
 ```python
 class IrisClassifier(nn.Module):
